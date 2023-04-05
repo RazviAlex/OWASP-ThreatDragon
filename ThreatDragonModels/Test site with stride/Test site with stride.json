@@ -1,0 +1,26 @@
+{
+  "version": "2.0.1",
+  "summary": {
+    "title": "Test site with stride",
+    "owner": "razvan",
+    "description": "web site of dog pics",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Nuevo diagrama STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.1",
+        "description": "stride example"
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "razvan",
+    "threatTop": 0
+  }
+}
